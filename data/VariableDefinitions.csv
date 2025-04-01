@@ -11,4 +11,4 @@ Subject_Car_Colour,Car colour
 Subject_Car_Make,Car make
 LGA_Name,City where policy was purchased
 State,State where policy was purchased
-No_of_claims_3_mon_period,Wether the customer claimed within a 3 month period. 
+No_of_claims_3_mon_period,Wether the customer claimed within a 3 month period.  
