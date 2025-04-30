@@ -1,4 +1,4 @@
-ID,Policy Start Date,Policy End Date,Gender,Age,First Transaction Date,No_Pol,Car_Category,Subject_Car_Colour,Subject_Car_Make,LGA_Name,State,ProductName
+ID,Policy_Start_Date,Policy_End_Date,Gender,Age,First_Transaction_Date,No_Pol,Car_Category,Subject_Car_Colour,Subject_Car_Make,LGA_Name,State,ProductName
 ID_01QM0NU,2010-10-23,2011-10-22,Female,46,2010-10-23,1,,,Ford,Abuja Municipal,Abuja-Municipal,Car Classic
 ID_024NJLZ,2010-10-14,2011-10-13,Male,32,2010-10-14,1,,,,Kosofe,Benue,Car Classic
 ID_02NOVWQ,2010-08-29,2011-08-28,Female,45,2010-08-29,2,Saloon,Black,Honda,Wuse 11,Abuja,Car Classic
