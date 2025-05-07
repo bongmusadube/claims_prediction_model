@@ -4,4 +4,4 @@ numpy
 scikit-learn
 joblib
 altair
-streamlit_extras.metric_cards
+streamlit-extras
