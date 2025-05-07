@@ -5,4 +5,4 @@ scikit-learn
 joblib
 altair
 base64
-streamlit_extras.metric_cards
+streamlit_extras
