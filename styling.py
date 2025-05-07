@@ -138,6 +138,7 @@ def custom_styling():
             .stNumberInput input[type="number"]:focus {
                 border: 2px solid #77be5cff !important;
                 outline: none !important;
+                box-shadow: none !important;
             }
 
            
@@ -160,6 +161,7 @@ def custom_styling():
             .stDateInput input[type="text"]:focus {
                 border: 2px solid #77be5cff !important;
                 outline: none !important;
+                box-shadow: none !important;
             }
 
             
